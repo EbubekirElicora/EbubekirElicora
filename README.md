@@ -16,7 +16,7 @@
 
 I am a career changer with a technical background in industrial mechanics and a completed full-stack development program.
 
-I build complete web applications — from responsive and interactive frontends with **Angular, TypeScript and JavaScript** to REST backends with **Python, Django and Django REST Framework**. I also work with databases, authentication, APIs, Docker, Linux servers and cloud deployment.
+I build complete web applications, from responsive and interactive frontends with **Angular, TypeScript and JavaScript** to REST backends with **Python, Django and Django REST Framework**. I also work with databases, authentication, APIs, Docker, Linux servers and cloud deployment.
 
 - Based in Herne, Germany
 - Full-stack development from frontend to backend
