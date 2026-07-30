@@ -80,7 +80,7 @@ A full-stack marketplace with customer and business accounts, offers, orders, re
 **Stack:** JavaScript, HTML, CSS, Python, Django REST Framework, SQLite, Nginx, Gunicorn, Google Cloud
 
 [🌐 Live Demo](https://coderr.ebubekir-elicora.de/)  
-[📂 Backend](https://github.com/EbubekirElicora/Coderr) · [📂 Frontend](https://github.com/EbubekirElicora/Coderr_FrontEnd)
+[📂 Full-Stack Monorepo](https://github.com/EbubekirElicora/Coderr)
 
 </td>
 <td width="50%" valign="top">
