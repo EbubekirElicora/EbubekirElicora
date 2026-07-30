@@ -106,7 +106,7 @@ A full-stack quiz application that creates interactive quizzes from YouTube vide
 <p align="center">
   <a href="https://github.com/EbubekirElicora/code-a-cuisine">
     <img
-      src="./code-a-cuisine-mask.png"
+      src="./code-a-cuisine-laptop.png"
       alt="Code à Cuisine project preview"
       width="100%"
     />
