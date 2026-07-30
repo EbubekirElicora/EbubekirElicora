@@ -97,18 +97,38 @@ A full-stack quiz application that creates interactive quizzes from YouTube vide
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### Code à Cuisine
+<h3 align="center">Code à Cuisine</h3>
 
-An AI-powered full-stack recipe application that generates personalized recipes through an Angular frontend, automated n8n workflows and Firebase Firestore.
+<p align="center">
+  <a href="https://github.com/EbubekirElicora/code-a-cuisine">
+    <img
+      src="./code-a-cuisine-mask.png"
+      alt="Code à Cuisine project preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-**Stack:** Angular, TypeScript, Firebase, n8n, REST webhooks, LLM integration
+<p>
+  An AI-powered full-stack recipe application that generates personalized
+  recipes through an Angular frontend, automated n8n workflows and Firebase
+  Firestore.
+</p>
 
-[📂 Repository](https://github.com/EbubekirElicora/code-a-cuisine)
+<p>
+  <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n,
+  REST webhooks and LLM integration
+</p>
+
+<p align="center">
+  <a href="https://github.com/EbubekirElicora/code-a-cuisine">
+    📂 Repository
+  </a>
+</p>
 
 </td>
-<td width="50%" valign="top">
 
 ### Developer Portfolio
 
