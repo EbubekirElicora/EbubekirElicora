@@ -197,7 +197,7 @@ A browser-based 2D jump-and-run game built from scratch with object-oriented Jav
 
 ### More Projects
 
-[Firebase Notes](https://github.com/EbubekirElicora/Firebase_Notes_Project) · [Simple CRM](https://github.com/EbubekirElicora/simple-crm) · [QuizApp](https://github.com/EbubekirElicora/QuizApp) · [Join Issue Collector](https://github.com/EbubekirElicora/Join_Issue_Collector)
+[Notes](https://github.com/EbubekirElicora/Firebase_Notes_Project) · [Simple CRM](https://github.com/EbubekirElicora/simple-crm) · [QuizApp](https://github.com/EbubekirElicora/QuizApp) · [Join Issue Collector](https://github.com/EbubekirElicora/Join_Issue_Collector)
 
 ---
 
