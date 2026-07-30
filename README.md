@@ -83,6 +83,7 @@ A full-stack marketplace with customer and business accounts, offers, orders, re
 [📂 Full-Stack Monorepo](https://github.com/EbubekirElicora/Coderr)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Quizly
@@ -96,8 +97,9 @@ A full-stack quiz application that creates interactive quizzes from YouTube vide
 
 </td>
   </tr>
+
   <tr>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <h3 align="center">Code à Cuisine</h3>
 
@@ -130,6 +132,8 @@ A full-stack quiz application that creates interactive quizzes from YouTube vide
 
 </td>
 
+<td width="50%" valign="top">
+
 ### Developer Portfolio
 
 A responsive Angular portfolio that presents my projects, skills and contact information.
@@ -161,6 +165,7 @@ A Django REST backend for an authenticated video-streaming platform with account
 [📂 Repository](https://github.com/EbubekirElicora/Videoflix)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### KanMind
@@ -192,6 +197,7 @@ A Kanban-style task manager built with vanilla JavaScript, object-oriented archi
 [📂 Repository](https://github.com/EbubekirElicora/join_428)
 
 </td>
+
 <td width="33%" valign="top">
 
 ### Ring of Fire
@@ -202,6 +208,7 @@ An Angular and Firebase card game with real-time data synchronization and struct
 [📂 Repository](https://github.com/EbubekirElicora/ringOfFire)
 
 </td>
+
 <td width="33%" valign="top">
 
 ### El Pollo Loco
