@@ -99,7 +99,7 @@ I build complete web applications, from responsive and interactive frontends wit
   <a href="https://coderr.ebubekir-elicora.de/">🌐 Live Demo</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/EbubekirElicora/Coderr">
-    📂 Full-Stack Monorepo
+    📂 Repository
   </a>
 </p>
 
