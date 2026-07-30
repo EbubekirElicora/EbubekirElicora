@@ -107,14 +107,35 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <td width="50%" valign="top">
 
-### Quizly
+<h3 align="center">Quizly</h3>
 
-A full-stack quiz application that creates interactive quizzes from YouTube videos using speech transcription and generative AI.
+<p align="center">
+  <a href="https://quizly.ebubekir-elicora.de/">
+    <img
+      src="./quizly-laptop.png"
+      alt="Quizly AI quiz application preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-**Stack:** JavaScript, Python, Django REST Framework, JWT, Whisper, Gemini, FFmpeg, Google Cloud
+<p>
+  An AI-powered full-stack quiz application that generates interactive quizzes
+  from YouTube videos using speech transcription and generative AI.
+</p>
 
-[🌐 Live Demo](https://quizly.ebubekir-elicora.de/)  
-[📂 Repository](https://github.com/EbubekirElicora/Quizly)
+<p>
+  <strong>Stack:</strong> JavaScript, Python, Django REST Framework, JWT,
+  Whisper, Gemini, FFmpeg and Google Cloud
+</p>
+
+<p align="center">
+  <a href="https://quizly.ebubekir-elicora.de/">🌐 Live Demo</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/Quizly">
+    📂 Repository
+  </a>
+</p>
 
 </td>
   </tr>
