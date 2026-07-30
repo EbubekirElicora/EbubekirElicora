@@ -149,6 +149,7 @@ A task-management REST API with boards, members, tasks, comments, token authenti
 
 **Stack:** Python, Django, Django REST Framework, token authentication and SQLite
 
+[🌐 Live Demo](https://kanmind.ebubekir-elicora.de/)  
 [📂 Repository](https://github.com/EbubekirElicora/KanMind_BackEnd_Project)
 
 </td>
