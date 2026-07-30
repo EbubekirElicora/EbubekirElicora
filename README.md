@@ -99,9 +99,9 @@ A full-stack quiz application that creates interactive quizzes from YouTube vide
   <tr>
     <td width="50%" valign="top">
 
-### Code-a-Cuisine
+### Code à Cuisine
 
-A full-stack recipe application that combines an Angular frontend, n8n workflows, Firebase Firestore and AI-assisted recipe generation.
+An AI-powered full-stack recipe application that generates personalized recipes through an Angular frontend, automated n8n workflows and Firebase Firestore.
 
 **Stack:** Angular, TypeScript, Firebase, n8n, REST webhooks, LLM integration
 
