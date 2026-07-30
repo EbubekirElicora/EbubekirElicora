@@ -71,16 +71,37 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### Coderr
+<h3 align="center">Coderr</h3>
 
-A full-stack marketplace with customer and business accounts, offers, orders, reviews and role-based permissions.
+<p align="center">
+  <a href="https://coderr.ebubekir-elicora.de/">
+    <img
+      src="./coderr-laptop.png"
+      alt="Coderr full-stack marketplace preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-**Stack:** JavaScript, HTML, CSS, Python, Django REST Framework, SQLite, Nginx, Gunicorn, Google Cloud
+<p>
+  A full-stack marketplace where customers can discover and order digital
+  services from registered business providers.
+</p>
 
-[🌐 Live Demo](https://coderr.ebubekir-elicora.de/)  
-[📂 Full-Stack Monorepo](https://github.com/EbubekirElicora/Coderr)
+<p>
+  <strong>Stack:</strong> JavaScript, HTML, CSS, Python,
+  Django REST Framework, SQLite, Nginx, Gunicorn and Google Cloud
+</p>
+
+<p align="center">
+  <a href="https://coderr.ebubekir-elicora.de/">🌐 Live Demo</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/Coderr">
+    📂 Full-Stack Monorepo
+  </a>
+</p>
 
 </td>
 
