@@ -270,12 +270,32 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <td width="33%" valign="top">
 
-### Ring of Fire
+<h3 align="center">Ring of Fire</h3>
 
-An Angular and Firebase card game with real-time data synchronization and structured game-state management.
+<p align="center">
+  <a href="https://ebubekir-elicora.de/ring-of-fire/">
+    <img
+      src="./ring-of-fire-laptop.png"
+      alt="Ring of Fire card game preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-[🌐 Live Demo](https://ebubekir-elicora.de/ring-of-fire/)  
-[📂 Repository](https://github.com/EbubekirElicora/ringOfFire)
+<p>
+  An Angular and Firebase card game with real-time data synchronization
+  and structured game-state management.
+</p>
+
+<p align="center">
+  <a href="https://ebubekir-elicora.de/ring-of-fire/">
+    🌐 Live Demo
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/ringOfFire">
+    📂 Repository
+  </a>
+</p>
 
 </td>
 
