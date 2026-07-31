@@ -299,12 +299,32 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <td width="33%" valign="top">
 
-### El Pollo Loco
+<h3 align="center">El Pollo Loco</h3>
 
-A browser-based 2D jump-and-run game built from scratch with object-oriented JavaScript and HTML5 Canvas.
+<p align="center">
+  <a href="https://ebubekir-elicora.de/Projekt_El_Polo_Loco_Ebubekir_Elicora/index.html">
+    <img
+      src="./el-polo-loco-laptop.png"
+      alt="El Pollo Loco 2D browser game preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-[🌐 Live Demo](https://ebubekir-elicora.de/Projekt_El_Polo_Loco_Ebubekir_Elicora/index.html)  
-[📂 Repository](https://github.com/EbubekirElicora/Projekt_El_Polo_Loco_Ebubekir_Elicora)
+<p>
+  A browser-based 2D jump-and-run game built from scratch with
+  object-oriented JavaScript and HTML5 Canvas.
+</p>
+
+<p align="center">
+  <a href="https://ebubekir-elicora.de/Projekt_El_Polo_Loco_Ebubekir_Elicora/index.html">
+    🌐 Live Demo
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/Projekt_El_Polo_Loco_Ebubekir_Elicora">
+    📂 Repository
+  </a>
+</p>
 
 </td>
   </tr>
