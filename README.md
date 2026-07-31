@@ -255,7 +255,7 @@ I build complete web applications, from responsive and interactive frontends wit
   A Kanban-style task manager built with vanilla JavaScript,
   object-oriented architecture and drag-and-drop interactions.
 </p>
-
+<br>
 <p align="center">
   <a href="https://ebubekir-elicora.de/Join_428/html/log_in.html">
     🌐 Live Demo
