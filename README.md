@@ -281,12 +281,11 @@ I build complete web applications, from responsive and interactive frontends wit
     />
   </a>
 </p>
-<br>
 <p>
   An Angular and Firebase card game with real-time data synchronization
   and structured game-state management.
 </p>
-
+<br>
 <p align="center">
   <a href="https://ebubekir-elicora.de/ring-of-fire/">
     🌐 Live Demo
