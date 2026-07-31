@@ -67,12 +67,10 @@ I build complete web applications, from responsive and interactive frontends wit
 
 ---
 
-## Featured Full-Stack Projects
 
 ## Featured Full-Stack Projects
 
 <table>
-  <!-- TITLES: ROW 1 -->
   <tr>
     <td width="50%" align="center">
       <h3>Coderr</h3>
@@ -82,7 +80,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- IMAGES: ROW 1 -->
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://coderr.ebubekir-elicora.de/">
@@ -105,7 +102,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- DESCRIPTIONS: ROW 1 -->
   <tr>
     <td width="50%" valign="top">
       A full-stack marketplace where customers can discover and order digital
@@ -118,7 +114,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- STACKS: ROW 1 -->
   <tr>
     <td width="50%" valign="top">
       <strong>Stack:</strong> JavaScript, HTML, CSS, Python, Django REST
@@ -131,7 +126,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- LINKS: ROW 1 -->
   <tr>
     <td width="50%" align="center">
       <a href="https://coderr.ebubekir-elicora.de/">🌐 Live Demo</a>
@@ -146,12 +140,10 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- SPACER -->
   <tr>
     <td colspan="2"><br></td>
   </tr>
 
-  <!-- TITLES: ROW 2 -->
   <tr>
     <td width="50%" align="center">
       <h3>Code à Cuisine</h3>
@@ -161,7 +153,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- IMAGES: ROW 2 -->
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/EbubekirElicora/code-a-cuisine">
@@ -184,7 +175,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- DESCRIPTIONS: ROW 2 -->
   <tr>
     <td width="50%" valign="top">
       An AI-powered full-stack recipe application that generates personalized
@@ -198,7 +188,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- STACKS: ROW 2 -->
   <tr>
     <td width="50%" valign="top">
       <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n,
@@ -211,7 +200,6 @@ I build complete web applications, from responsive and interactive frontends wit
     </td>
   </tr>
 
-  <!-- LINKS: ROW 2 -->
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/EbubekirElicora/code-a-cuisine">
