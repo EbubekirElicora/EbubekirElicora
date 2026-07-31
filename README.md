@@ -333,7 +333,7 @@ I build complete web applications, from responsive and interactive frontends wit
 
 ### More Projects
 
-[Notes](https://github.com/EbubekirElicora/Firebase_Notes_Project) · [Simple CRM](https://github.com/EbubekirElicora/simple-crm) · [QuizApp](https://github.com/EbubekirElicora/QuizApp) · [Join Issue Collector](https://github.com/EbubekirElicora/Join_Issue_Collector)
+[Notes](https://github.com/EbubekirElicora/Firebase_Notes_Project) · [Simple CRM](https://github.com/EbubekirElicora/simple-crm) · [QuizApp](https://github.com/EbubekirElicora/QuizApp) · [Join Issue Collector](https://github.com/EbubekirElicora/Join_Issue_Collector) · [PokeDex](https://github.com/EbubekirElicora/PokeDex)
 
 ---
 
