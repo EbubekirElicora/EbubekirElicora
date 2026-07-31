@@ -2,7 +2,7 @@
 
 # Hi, I'm Ebubekir Elicora 👋
 
-**Junior Full-Stack Developer · Angular · TypeScript · Python · Django**
+**Junior Fullstack Developer · Angular · TypeScript · Python · Django**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://ebubekir-elicora.de/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebubekir-eli%C3%A7ora-a27b47392/)
@@ -19,7 +19,7 @@ I am a career changer with a technical background in industrial mechanics and a 
 I build complete web applications, from responsive and interactive frontends with **Angular, TypeScript and JavaScript** to REST backends with **Python, Django and Django REST Framework**. I also work with databases, authentication, APIs, Docker, Linux servers and cloud deployment.
 
 - Based in Herne, Germany
-- Full-stack development from frontend to backend
+- Fullstack development from frontend to backend
 - Responsive interfaces and component-based architecture
 - REST APIs, authentication and role-based permissions
 - Databases, Docker, cloud deployment and Linux administration
@@ -67,7 +67,7 @@ I build complete web applications, from responsive and interactive frontends wit
 
 ---
 
-## Featured Full-Stack Projects
+## Featured Fullstack Projects
 
 <table>
   <tr>
@@ -75,11 +75,11 @@ I build complete web applications, from responsive and interactive frontends wit
       <h3 align="center">Coderr</h3>
       <p align="center">
         <a href="https://coderr.ebubekir-elicora.de/">
-          <img src="./coderr-laptop.png" alt="Coderr full-stack marketplace preview" width="100%" />
+          <img src="./coderr-laptop.png" alt="Coderr fullstack marketplace preview" width="100%" />
         </a>
       </p>
       <p>
-        A full-stack marketplace where customers can discover and order digital services from registered business providers.
+        A Fullstack marketplace where customers can discover and order digital services from registered business providers.
       </p>
       <p>
         <strong>Stack:</strong> JavaScript, HTML, CSS, Python, Django REST Framework, SQLite, Nginx, Gunicorn, and Google Cloud.
@@ -99,7 +99,7 @@ I build complete web applications, from responsive and interactive frontends wit
         </a>
       </p>
       <p>
-        An AI-powered full-stack quiz application that generates interactive quizzes from YouTube videos using speech transcription and generative AI.
+        An AI-powered Fullstack quiz application that generates interactive quizzes from YouTube videos using speech transcription and generative AI.
       </p>
       <p>
         <strong>Stack:</strong> JavaScript, Python, Django REST Framework, JWT, Whisper, Gemini, FFmpeg, and Google Cloud.
@@ -121,7 +121,7 @@ I build complete web applications, from responsive and interactive frontends wit
       </p>
       <br><br>
       <p>
-        An AI-powered full-stack recipe application that generates personalized recipes through an Angular frontend, automated n8n workflows, and Firebase Firestore.
+        An AI-powered Fullstack recipe application that generates personalized recipes through an Angular frontend, automated n8n workflows, and Firebase Firestore.
       </p>
       <p>
         <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n, REST webhooks, and LLM integration.
@@ -353,7 +353,7 @@ I build complete web applications, from responsive and interactive frontends wit
 
 ## Contact
 
-I am open to junior full-stack, frontend, backend, application support and IT consulting opportunities.
+I am open to junior Fullstack, frontend, backend, application support and IT consulting opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/ebubekir-eli%C3%A7ora-a27b47392/)
 - [Portfolio](https://ebubekir-elicora.de/)
