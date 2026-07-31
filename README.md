@@ -71,150 +71,561 @@ I build complete web applications, from responsive and interactive frontends wit
 ## Featured Full-Stack Projects
 
 <table>
+
+
+
   <tr>
-    <td width="50%" align="center">
-      <h3>Coderr</h3>
-    </td>
-    <td width="50%" align="center">
-      <h3>Quizly</h3>
-    </td>
+
+
+
+<td width="50%" valign="top">
+
+
+
+
+
+
+
+<h3 align="center">Coderr</h3>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://coderr.ebubekir-elicora.de/">
+
+
+
+    <img
+
+
+
+      src="./coderr-laptop.png"
+
+
+
+      alt="Coderr full-stack marketplace preview"
+
+
+
+      width="100%"
+
+
+
+    />
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  A full-stack marketplace where customers can discover and order digital
+
+
+
+  services from registered business providers.
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  <strong>Stack:</strong> JavaScript, HTML, CSS, Python,
+
+
+
+  Django REST Framework, SQLite, Nginx, Gunicorn and Google Cloud
+
+
+
+</p>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://coderr.ebubekir-elicora.de/">🌐 Live Demo</a>
+
+
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+
+
+  <a href="https://github.com/EbubekirElicora/Coderr">
+
+
+
+    📂 Repository
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+</td>
+
+
+
+
+
+
+
+<td width="50%" valign="top">
+
+
+
+
+
+
+
+<h3 align="center">Quizly</h3>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://quizly.ebubekir-elicora.de/">
+
+
+
+    <img
+
+
+
+      src="./quizly-laptop.png"
+
+
+
+      alt="Quizly AI quiz application preview"
+
+
+
+      width="100%"
+
+
+
+    />
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  An AI-powered full-stack quiz application that generates interactive quizzes
+
+
+
+  from YouTube videos using speech transcription and generative AI.
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  <strong>Stack:</strong> JavaScript, Python, Django REST Framework, JWT,
+
+
+
+  Whisper, Gemini, FFmpeg and Google Cloud
+
+
+
+</p>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://quizly.ebubekir-elicora.de/">🌐 Live Demo</a>
+
+
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+
+
+  <a href="https://github.com/EbubekirElicora/Quizly">
+
+
+
+    📂 Repository
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+</td>
+
+
+
   </tr>
 
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://coderr.ebubekir-elicora.de/">
-        <img
-          src="./coderr-laptop.png"
-          alt="Coderr full-stack marketplace preview"
-          width="100%"
-        />
-      </a>
-    </td>
 
-    <td width="50%" align="center" valign="middle">
-      <a href="https://quizly.ebubekir-elicora.de/">
-        <img
-          src="./quizly-laptop.png"
-          alt="Quizly AI quiz application preview"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
+
+
+
+
 
   <tr>
+
+
+
     <td width="50%" valign="top">
-      A full-stack marketplace where customers can discover and order digital
-      services from registered business providers.
-    </td>
 
-    <td width="50%" valign="top">
-      An AI-powered full-stack quiz application that generates interactive
-      quizzes from YouTube videos using speech transcription and generative AI.
-    </td>
+
+
+
+
+
+
+<h3 align="center">Code à Cuisine</h3>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://github.com/EbubekirElicora/code-a-cuisine">
+
+
+
+    <img
+
+
+
+      src="./code-a-cuisine-laptop.png"
+
+
+
+      alt="Code à Cuisine project preview"
+
+
+
+      width="100%"
+
+
+
+    />
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  An AI-powered full-stack recipe application that generates personalized
+
+
+
+  recipes through an Angular frontend, automated n8n workflows and Firebase
+
+
+
+  Firestore.
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n,
+
+
+
+  REST webhooks and LLM integration
+
+
+
+</p>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://github.com/EbubekirElicora/code-a-cuisine">
+
+
+
+    📂 Repository
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+</td>
+
+
+
+
+
+
+
+<td width="50%" valign="top">
+
+
+
+
+
+
+
+<h3 align="center">Developer Portfolio</h3>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://ebubekir-elicora.de/">
+
+
+
+    <img
+
+
+
+      src="./portfolio-laptop.png"
+
+
+
+      alt="Ebubekir Elicora developer portfolio preview"
+
+
+
+      width="100%"
+
+
+
+    />
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  A responsive Angular portfolio that presents my projects, technical skills,
+
+
+
+  professional background and contact information.
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+
+
+  <strong>Stack:</strong> Angular 17, TypeScript, SCSS, RxJS,
+
+
+
+  responsive design and internationalization
+
+
+
+</p>
+
+
+
+
+
+
+
+<p align="center">
+
+
+
+  <a href="https://ebubekir-elicora.de/">🌐 Live Demo</a>
+
+
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+
+
+  <a href="https://github.com/EbubekirElicora/my-portfolio">
+
+
+
+    📂 Repository
+
+
+
+  </a>
+
+
+
+</p>
+
+
+
+
+
+
+
+</td>
+
+
+
   </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Stack:</strong> JavaScript, HTML, CSS, Python, Django REST
-      Framework, SQLite, Nginx, Gunicorn and Google Cloud
-    </td>
 
-    <td width="50%" valign="top">
-      <strong>Stack:</strong> JavaScript, Python, Django REST Framework, JWT,
-      Whisper, Gemini, FFmpeg and Google Cloud
-    </td>
-  </tr>
 
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://coderr.ebubekir-elicora.de/">🌐 Live Demo</a>
-      &nbsp;&nbsp;•&nbsp;&nbsp;
-      <a href="https://github.com/EbubekirElicora/Coderr">📂 Repository</a>
-    </td>
-
-    <td width="50%" align="center">
-      <a href="https://quizly.ebubekir-elicora.de/">🌐 Live Demo</a>
-      &nbsp;&nbsp;•&nbsp;&nbsp;
-      <a href="https://github.com/EbubekirElicora/Quizly">📂 Repository</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2"><br></td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center">
-      <h3>Code à Cuisine</h3>
-    </td>
-    <td width="50%" align="center">
-      <h3>Developer Portfolio</h3>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/EbubekirElicora/code-a-cuisine">
-        <img
-          src="./code-a-cuisine-laptop.png"
-          alt="Code à Cuisine project preview"
-          width="100%"
-        />
-      </a>
-    </td>
-
-    <td width="50%" align="center" valign="middle">
-      <a href="https://ebubekir-elicora.de/">
-        <img
-          src="./portfolio-laptop.png"
-          alt="Ebubekir Elicora developer portfolio preview"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      An AI-powered full-stack recipe application that generates personalized
-      recipes through an Angular frontend, automated n8n workflows and Firebase
-      Firestore.
-    </td>
-
-    <td width="50%" valign="top">
-      A responsive Angular portfolio that presents my projects, technical
-      skills, professional background and contact information.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n,
-      REST webhooks and LLM integration
-    </td>
-
-    <td width="50%" valign="top">
-      <strong>Stack:</strong> Angular 17, TypeScript, SCSS, RxJS, responsive
-      design and internationalization
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/EbubekirElicora/code-a-cuisine">
-        📂 Repository
-      </a>
-    </td>
-
-    <td width="50%" align="center">
-      <a href="https://ebubekir-elicora.de/">🌐 Live Demo</a>
-      &nbsp;&nbsp;•&nbsp;&nbsp;
-      <a href="https://github.com/EbubekirElicora/my-portfolio">
-        📂 Repository
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
