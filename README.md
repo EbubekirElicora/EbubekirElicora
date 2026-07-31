@@ -315,7 +315,7 @@ I build complete web applications, from responsive and interactive frontends wit
   A browser-based 2D jump-and-run game built from scratch with
   object-oriented JavaScript and HTML5 Canvas.
 </p>
-
+<br>
 <p align="center">
   <a href="https://ebubekir-elicora.de/Projekt_El_Polo_Loco_Ebubekir_Elicora/index.html">
     🌐 Live Demo
