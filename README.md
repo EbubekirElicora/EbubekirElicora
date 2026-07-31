@@ -119,14 +119,14 @@ I build complete web applications, from responsive and interactive frontends wit
           <img src="./code-a-cuisine-laptop.png" alt="Code à Cuisine project preview" width="100%" />
         </a>
       </p>
-      <br>
+      <br><br>
       <p>
         An AI-powered full-stack recipe application that generates personalized recipes through an Angular frontend, automated n8n workflows, and Firebase Firestore.
       </p>
       <p>
         <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n, REST webhooks, and LLM integration.
       </p>
-          <br><br>
+        <br>
       <p align="center">
         <a href="https://github.com/EbubekirElicora/code-a-cuisine">📂 Repository</a>
       </p>
