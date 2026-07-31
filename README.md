@@ -176,14 +176,35 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <td width="50%" valign="top">
 
-### Developer Portfolio
+<h3 align="center">Developer Portfolio</h3>
 
-A responsive Angular portfolio that presents my projects, skills and contact information.
+<p align="center">
+  <a href="https://ebubekir-elicora.de/">
+    <img
+      src="./portfolio-laptop.png"
+      alt="Ebubekir Elicora developer portfolio preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-**Stack:** Angular 17, TypeScript, SCSS, RxJS, responsive design and internationalization
+<p>
+  A responsive Angular portfolio that presents my projects, technical skills,
+  professional background and contact information.
+</p>
 
-[🌐 Live Demo](https://ebubekir-elicora.de/)  
-[📂 Repository](https://github.com/EbubekirElicora/my-portfolio)
+<p>
+  <strong>Stack:</strong> Angular 17, TypeScript, SCSS, RxJS,
+  responsive design and internationalization
+</p>
+
+<p align="center">
+  <a href="https://ebubekir-elicora.de/">🌐 Live Demo</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/my-portfolio">
+    📂 Repository
+  </a>
+</p>
 
 </td>
   </tr>
