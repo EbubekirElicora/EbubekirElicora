@@ -126,7 +126,7 @@ I build complete web applications, from responsive and interactive frontends wit
       <p>
         <strong>Stack:</strong> Angular, TypeScript, Firebase Firestore, n8n, REST webhooks, and LLM integration.
       </p>
-            <br>
+          <br><br>
       <p align="center">
         <a href="https://github.com/EbubekirElicora/code-a-cuisine">📂 Repository</a>
       </p>
