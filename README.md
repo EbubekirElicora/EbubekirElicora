@@ -158,29 +158,72 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### Videoflix
+<h3 align="center">Videoflix</h3>
 
-A Django REST backend for an authenticated video-streaming platform with account activation, password reset, background processing and adaptive HLS streaming.
+<p align="center">
+  <a href="https://videoflix.ebubekir-elicora.de/">
+    <img
+      src="./videoflix-laptop.png"
+      alt="Videoflix video streaming platform preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-**Stack:** Django REST Framework, JWT, PostgreSQL, Redis, Docker, FFmpeg, HLS and background jobs
+<p>
+  A Django REST backend for an authenticated video-streaming platform with
+  account activation, password reset, background processing and adaptive HLS
+  streaming.
+</p>
 
-[🌐 Live Demo](https://videoflix.ebubekir-elicora.de/)  
-[📂 Repository](https://github.com/EbubekirElicora/Videoflix)
+<p>
+  <strong>Stack:</strong> Django REST Framework, JWT, PostgreSQL, Redis,
+  Docker, FFmpeg, HLS and background jobs
+</p>
+<br>
+<p align="center">
+  <a href="https://videoflix.ebubekir-elicora.de/">🌐 Live Demo</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/Videoflix">
+    📂 Repository
+  </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### KanMind
+<h3 align="center">KanMind</h3>
 
-A task-management REST API with boards, members, tasks, comments, token authentication and detailed permission rules.
+<p align="center">
+  <a href="https://kanmind.ebubekir-elicora.de/">
+    <img
+      src="./kanMind-laptop.png"
+      alt="KanMind task management application preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-**Stack:** Python, Django, Django REST Framework, token authentication and SQLite
+<p>
+  A task-management REST API with boards, members, tasks, comments,
+  token authentication and detailed permission rules.
+</p>
 
-[🌐 Live Demo](https://kanmind.ebubekir-elicora.de/)  
-[📂 Repository](https://github.com/EbubekirElicora/KanMind_BackEnd_Project)
+<p>
+  <strong>Stack:</strong> Python, Django, Django REST Framework,
+  token authentication and SQLite
+</p>
+<br><br>
+<p align="center">
+  <a href="https://kanmind.ebubekir-elicora.de/">🌐 Live Demo</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/KanMind_BackEnd_Project">
+    📂 Repository
+  </a>
+</p>
 
 </td>
   </tr>
