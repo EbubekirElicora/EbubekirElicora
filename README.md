@@ -237,14 +237,34 @@ I build complete web applications, from responsive and interactive frontends wit
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+<td width="33%" valign="top">
 
-### Join
+<h3 align="center">Join</h3>
 
-A Kanban-style task manager built with vanilla JavaScript, object-oriented architecture and drag-and-drop interactions.
+<p align="center">
+  <a href="https://ebubekir-elicora.de/Join_428/html/log_in.html">
+    <img
+      src="./join-laptop.png"
+      alt="Join Kanban project management application preview"
+      width="100%"
+    />
+  </a>
+</p>
 
-[🌐 Live Demo](https://ebubekir-elicora.de/Join_428/html/log_in.html)  
-[📂 Repository](https://github.com/EbubekirElicora/join_428)
+<p>
+  A Kanban-style task manager built with vanilla JavaScript,
+  object-oriented architecture and drag-and-drop interactions.
+</p>
+
+<p align="center">
+  <a href="https://ebubekir-elicora.de/Join_428/html/log_in.html">
+    🌐 Live Demo
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/EbubekirElicora/join_428">
+    📂 Repository
+  </a>
+</p>
 
 </td>
 
