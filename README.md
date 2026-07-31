@@ -143,6 +143,7 @@ I build complete web applications, from responsive and interactive frontends wit
       <p>
         <strong>Stack:</strong> Angular 17, TypeScript, SCSS, RxJS, responsive design, and internationalization.
       </p>
+      <br>
       <p align="center">
         <a href="https://ebubekir-elicora.de/">🌐 Live Demo</a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
