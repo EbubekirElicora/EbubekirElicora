@@ -84,10 +84,10 @@ I build complete web applications, from responsive and interactive frontends wit
       <p>
         <strong>Stack:</strong> JavaScript, HTML, CSS, Python, Django REST Framework, SQLite, Nginx, Gunicorn, and Google Cloud.
       </p>
+        <br>
       <p align="center">
         <a href="https://coderr.ebubekir-elicora.de/">🌐 Live Demo</a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
-        <br>
         <a href="https://github.com/EbubekirElicora/Coderr">📂 Repository</a>
       </p>
     </td>
