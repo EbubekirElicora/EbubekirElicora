@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ebubekir Elicora 👋
+# Ebubekir Elicora
 
 **Aspiring IT Consultant · Full-Stack Developer · Python · Django · JavaScript**
 
