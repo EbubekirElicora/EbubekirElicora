@@ -2,7 +2,7 @@
 
 # Hi, I'm Ebubekir Elicora 👋
 
-**Junior Fullstack Developer · Angular · TypeScript · Python · Django**
+**Aspiring IT Consultant · Full-Stack Developer · Python · Django · JavaScript**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://ebubekir-elicora.de/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebubekir-eli%C3%A7ora-a27b47392/)
@@ -14,16 +14,19 @@
 
 ## About Me
 
-I am a career changer with a technical background in industrial mechanics and a completed Fullstack development program.
+I am a career changer with a technical background in industrial mechanics and a completed Full-Stack development program.
 
-I build complete web applications, from responsive and interactive frontends with **Angular, TypeScript and JavaScript** to REST backends with **Python, Django and Django REST Framework**. I also work with databases, authentication, APIs, Docker, Linux servers and cloud deployment.
+My goal is to move into IT Consulting, where I can combine technical understanding, structured problem solving and communication with customers and technical teams.
+
+Through my projects, I have gained practical experience in frontend and backend development, REST APIs, databases, authentication, Docker, Linux servers and cloud deployment.
 
 - Based in Herne, Germany
-- Fullstack development from frontend to backend
-- Responsive interfaces and component-based architecture
+- Technical understanding across frontend and backend systems
+- Translating requirements into practical software solutions
+- Structured analysis and problem solving
 - REST APIs, authentication and role-based permissions
 - Databases, Docker, cloud deployment and Linux administration
-- Clean, maintainable and documented code
+- Clear documentation and communication
 
 ---
 
@@ -353,7 +356,7 @@ I build complete web applications, from responsive and interactive frontends wit
 
 ## Contact
 
-I am open to junior Fullstack, frontend, backend, application support and IT consulting opportunities.
+I am open to junior opportunities in IT Consulting, Technical Consulting, Requirements Engineering and Business Analysis, where I can apply my technical Full-Stack background.
 
 - [LinkedIn](https://www.linkedin.com/in/ebubekir-eli%C3%A7ora-a27b47392/)
 - [Portfolio](https://ebubekir-elicora.de/)
